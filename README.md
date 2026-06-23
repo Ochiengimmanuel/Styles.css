@@ -1,4 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Immanuel Otieno</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
 
+        .profile {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            max-width: 400px;
+            margin: auto;
+        }
+
+        h1 {
+            color: #0077cc;
+        }
+
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="profile">
+        <h1>Immanuel Otieno</h1>
+        <p>Media Student | Writer | Content Creator</p>
+        <p>Email: ochiengimmanuel752@gmail.com</p>
+        <p>Nairobi, Kenya</p>
+    </div>
+
+</body>
+</html>
 /* 1. Reset Default Styles */
 * {
     margin: 0;
